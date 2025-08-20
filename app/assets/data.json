@@ -1,0 +1,3005 @@
+{
+    "symbols_remaining": 7384,
+    "symbols": [
+        {
+            "symbol": "HDFCBANK",
+            "description": "HDFC BANK LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "hdfc-bank",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "RELIANCE",
+            "description": "RELIANCE INDUSTRIES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "reliance-industrial-infrastructure",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "SBIN",
+            "description": "STATE BANK OF INDIA",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "state-bank",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ICICIBANK",
+            "description": "ICICI BANK LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "icici-bank",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "AXISBANK",
+            "description": "AXIS BANK LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "axis-bank",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ITC",
+            "description": "ITC LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "itc",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "TATAMOTORS",
+            "description": "TATA MOTORS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "tata",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "INFY",
+            "description": "INFOSYS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "infosys",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BAJFINANCE",
+            "description": "BAJAJ FINANCE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "bajaj-finance",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "TCS",
+            "description": "TATA CONSULTANCY SERV LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "tata",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "HINDUNILVR",
+            "description": "HINDUSTAN UNILEVER LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "unilever",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "KOTAKBANK",
+            "description": "KOTAK MAHINDRA BANK LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "kotak-mahindra-bank",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ASIANPAINT",
+            "description": "ASIAN PAINTS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "asian-paints",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "TATASTEEL",
+            "description": "TATA STEEL LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "tata",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "TATAPOWER",
+            "description": "TATA POWER CO LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "tata",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "DIVISLAB",
+            "description": "DIVI S LABORATORIES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "divis",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ONGC",
+            "description": "OIL AND NATURAL GAS CORP.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "oil-and-natural-gas",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "WIPRO",
+            "description": "WIPRO LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "wipro",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BAJAJFINSV",
+            "description": "BAJAJ FINSERV LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "bajaj-finserv-mutual-fund",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BHARTIARTL",
+            "description": "BHARTI AIRTEL LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "airtel",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "HCLTECH",
+            "description": "HCL TECHNOLOGIES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "hcl-technologies",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "DABUR",
+            "description": "DABUR INDIA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "dabur",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "TITAN",
+            "description": "TITAN COMPANY LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "titan-company",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "IEX",
+            "description": "INDIAN ENERGY EXC LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "indian-energy-exchange",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "HAL",
+            "description": "HINDUSTAN AERONAUTICS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "hindustan-aeronautics-limited",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "COALINDIA",
+            "description": "COAL INDIA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "coal-india",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "LT",
+            "description": "LARSEN & TOUBRO LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "larsen-and-toubro",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "PFC",
+            "description": "POWER FIN CORP LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "power-finance",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BPCL",
+            "description": "BHARAT PETROLEUM CORP LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "bharat-petroleum",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "INDUSINDBK",
+            "description": "INDUSIND BANK LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "indusind-bank",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "DIXON",
+            "description": "DIXON TECHNO (INDIA) LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "dixon-technologie",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "SBICARD",
+            "description": "SBI CARDS & PAY SER LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "sbi-cards-and-paymen",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "JIOFIN",
+            "description": "JIO FIN SERVICES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "jio-fin-services-ltd",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "COFORGE",
+            "description": "COFORGE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "coforge-ltd",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BEL",
+            "description": "BHARAT ELECTRONICS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "bharat-electronics",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "CIPLA",
+            "description": "CIPLA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "cipla",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "MARUTI",
+            "description": "MARUTI SUZUKI INDIA LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "maruti-suzuki-india",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "HDFCLIFE",
+            "description": "HDFC LIFE INS CO LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "hdfc-life",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ADANIENT",
+            "description": "ADANI ENTERPRISES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "adani",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "TATACONSUM",
+            "description": "TATA CONSUMER PRODUCT LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "tata",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "HEROMOTOCO",
+            "description": "HERO MOTOCORP LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "hero-motocorp",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "NTPC",
+            "description": "NTPC LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "ntpc",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BAJAJ_AUTO",
+            "description": "BAJAJ AUTO LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "bajaj-auto",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ZOMATO",
+            "description": "ZOMATO LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "zomato",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BRITANNIA",
+            "description": "BRITANNIA INDUSTRIES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "britannia",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "M_M",
+            "description": "MAHINDRA & MAHINDRA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "mahindra",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "DRREDDY",
+            "description": "DR. REDDY S LABORATORIES",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "dr-reddys",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "SUZLON",
+            "description": "SUZLON ENERGY LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "suzlon-energy",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "HINDALCO",
+            "description": "HINDALCO INDUSTRIES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "hindalco",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ADANIPORTS",
+            "description": "ADANI PORT & SEZ LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "adani",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "MGL",
+            "description": "MAHANAGAR GAS LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "mahanagar-gas",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "LTTS",
+            "description": "L&T TECHNOLOGY SER. LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "l-and-t-technology-services",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "GUJGASLTD",
+            "description": "GUJARAT GAS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "gujarat-gas",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "TATACHEM",
+            "description": "TATA CHEMICALS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "tata",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BATAINDIA",
+            "description": "BATA INDIA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "bata",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "MOTHERSON",
+            "description": "SAMVRDHNA MTHRSN INTL LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "motherson",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "GLOBUSSPR",
+            "description": "GLOBUS SPIRITS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "globus-spirits",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "PIIND",
+            "description": "PI INDUSTRIES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "pi-industries",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "HINDCOPPER",
+            "description": "HINDUSTAN COPPER LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "hindustan-copper",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "RBLBANK",
+            "description": "RBL BANK LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "rbl-bank",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "OIL",
+            "description": "OIL INDIA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "oil-india",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "TATAELXSI",
+            "description": "TATA ELXSI LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "tata",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "CROMPTON",
+            "description": "CROMPT GREA CON ELEC LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "crompton-greaves-consumer-elec",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "GODREJPROP",
+            "description": "GODREJ PROPERTIES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "godrej-properties",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ICICIPRULI",
+            "description": "ICICI PRU LIFE INS CO LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "icici-prudential-life-insurance",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BHARATFORG",
+            "description": "BHARAT FORGE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "bharat-forge",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ANGELONE",
+            "description": "ANGEL ONE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "angel-broking",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ESCORTS",
+            "description": "ESCORTS KUBOTA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "escorts",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BOSCHLTD",
+            "description": "BOSCH LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "bosch",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "CESC",
+            "description": "CESC LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "cesc",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ZYDUSLIFE",
+            "description": "ZYDUS LIFESCIENCES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "cadila-healthcare",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "SRF",
+            "description": "SRF LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "srf",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "LTF",
+            "description": "L&T FINANCE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "l-and-t-finance",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "AETHER",
+            "description": "AETHER INDUSTRIES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "aether-industries-limited",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ALKEM",
+            "description": "ALKEM LABORATORIES LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "alkem",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "VBL",
+            "description": "VARUN BEVERAGES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "varun-beverages",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "SIEMENS",
+            "description": "SIEMENS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "siemens",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "JUBLINGREA",
+            "description": "JUBILANT INGREVIA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "jubilant-ingrevia-ltd",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "JSWENERGY",
+            "description": "JSW ENERGY LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "jsw-energy",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ABCAPITAL",
+            "description": "ADITYA BIRLA CAPITAL LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "aditya-birla-capital",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "IGL",
+            "description": "INDRAPRASTHA GAS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "indraprastha-gas",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ATUL",
+            "description": "ATUL LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "atul",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "UNITDSPR",
+            "description": "UNITED SPIRITS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "united-spirits",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "APLLTD",
+            "description": "ALEMBIC PHARMA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "alembic",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "MCX",
+            "description": "MULTI COMMODITY EXCHANGE",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "multi-commodity-ex",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "MFSL",
+            "description": "MAX FINANCIAL SERV LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "max-financial",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "TI",
+            "description": "TILAKNAGAR INDUSTRIES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "tilaknagar-industries-ltd",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BSE",
+            "description": "BSE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "bse",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BALRAMCHIN",
+            "description": "BALRAMPUR CHINI MILLS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "balrampur-chini-mills",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "PEL",
+            "description": "PIRAMAL ENTERPRISES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "piramal",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "LXCHEM",
+            "description": "LAXMI ORGANIC INDUS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "laxmi-organic-industries",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "UBL",
+            "description": "UNITED BREWERIES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "united-breweries",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "JMFINANCIL",
+            "description": "JM FINANCIAL LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "jm-financial",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "PETRONET",
+            "description": "PETRONET LNG LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "petronet-lng",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "EPACK",
+            "description": "EPACK DURABLE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "epack-durable-ltd",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ABFRL",
+            "description": "ADITYA BIRLA FASHION & RT",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "aditya-birla-fash",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "NAUKRI",
+            "description": "INFO EDGE (I) LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "info-edge",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "SUNTV",
+            "description": "SUN TV NETWORK LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "sun-tv",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "HSCL",
+            "description": "HIMADRI SPECIALITY CHEM L",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "himadri-speciality",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "CASTROLIND",
+            "description": "CASTROL INDIA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "castrol-india",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+    {
+            "symbol": "ICICIGI",
+            "description": "ICICI LOMBARD GIC LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "icici-lombard-gen",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "DALBHARAT",
+            "description": "DALMIA BHARAT LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "dalmia-bharat",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "PRECWIRE",
+            "description": "PRECISION WIRES INDIA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "precision-wires-in",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "SWSOLAR",
+            "description": "STRLNG & WIL REN ENE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "sterling-and-wilson-so-ltd",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "LALPATHLAB",
+            "description": "DR. LAL PATH LABS LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "dr-lal-pathlabs",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "GNFC",
+            "description": "GUJ NAR VAL FER & CHEM L",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "gujarat-narmada-valley-fertilizers-and-chemicals",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ALLCARGO",
+            "description": "ALLCARGO LOGISTICS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "allcargo-logistics",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "SEPC",
+            "description": "SEPC LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "sepc-limited",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "GLS",
+            "description": "GLENMARK LIFE SCIENCE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "glenmark-life-science",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "CUB",
+            "description": "CITY UNION BANK LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "city-union-bank",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "BIKAJI",
+            "description": "BIKAJI FOODS INTERN LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "bikaji-foods-intern-ltd",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "AEROFLEX",
+            "description": "AEROFLEX INDUSTRIES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "aeroflex-industries-ltd",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "MUTHOOTFIN",
+            "description": "MUTHOOT FINANCE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "muthoot-finance",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "MANAPPURAM",
+            "description": "MANAPPURAM FINANCE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "manappuram-finance",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "HFCL",
+            "description": "HFCL LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "himachal-futuristics",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "COROMANDEL",
+            "description": "COROMANDEL INTERNTL. LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "coromandel-international",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ADANIPOWER",
+            "description": "ADANI POWER LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "adani-power",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "INDIACEM",
+            "description": "THE INDIA CEMENTS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "india-cements",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "EPIGRAL",
+            "description": "EPIGRAL LIMITED",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "meghmani-finechem-ltd",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "RAMCOCEM",
+            "description": "THE RAMCO CEMENTS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "ramco-cements",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "DOLATALGO",
+            "description": "DOLAT ALGOTECH LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "dolat-investments",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "HINDZINC",
+            "description": "HINDUSTAN ZINC LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "hindustan-zinc",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "NYKAA",
+            "description": "FSN E COMMERCE VENTURES",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "fsn-e-commerce-ventures",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ABBOTINDIA",
+            "description": "ABBOTT INDIA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "abbott",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "TORNTPHARM",
+            "description": "TORRENT PHARMACEUTICALS L",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "torrent-pharmaceuticals",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "NAVINFLUOR",
+            "description": "NAVIN FLUORINE INT. LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "navin-fluorine-international-l",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "OBEROIRLTY",
+            "description": "OBEROI REALTY LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "oberoi-realty",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "RADICO",
+            "description": "RADICO KHAITAN LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "radico-khaitan",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "JUBLPHARMA",
+            "description": "JUBILANT PHARMOVA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "jubilant-life-sciences",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "PCBL",
+            "description": "PCBL LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "phillips-carbon-black",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "EASEMYTRIP",
+            "description": "EASY TRIP PLANNERS LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "easy-trip-planners-limited",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "YESBANK",
+            "description": "YES BANK LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "yes-bank",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "MRF",
+            "description": "MRF LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "mrf",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "LICI",
+            "description": "LIFE INSURA CORP OF INDIA",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "life-insurance-corporation-of-india",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "HUDCO",
+            "description": "HSG & URBAN DEV CORPN LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "housing-urban-dev",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "RAMASTEEL",
+            "description": "RAMA STEEL TUBES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "rama-steel-tubes",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "KALYANKJIL",
+            "description": "KALYAN JEWELLERS IND LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "kalyan-jewellers-ind-ltd",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "METROPOLIS",
+            "description": "METROPOLIS HEALTHCARE LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "metropolis-healthcare",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "CENTURYTEX",
+            "description": "CENTURY TEXTILES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "century-text",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "GRAVITA",
+            "description": "GRAVITA INDIA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "gravita-india",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "SONACOMS",
+            "description": "SONA BLW PRECISION FRGS L",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "sona-blw-precision",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "M_MFIN",
+            "description": "M&M FIN. SERVICES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "mahindra-finance",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ADANIGREEN",
+            "description": "ADANI GREEN ENERGY LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "adani",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "NATCOPHARM",
+            "description": "NATCO PHARMA LTD.",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "natco-pharma",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ENGINERSIN",
+            "description": "ENGINEERS INDIA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "engineers-india",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "CYIENT",
+            "description": "CYIENT LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "cyient",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "SUPRAJIT",
+            "description": "SUPRAJIT ENGINEERING LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "suprajit-engineering",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "CANFINHOME",
+            "description": "CAN FIN HOMES LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "can-fin-homes",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "AJANTPHARM",
+            "description": "AJANTA PHARMA LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "ajanta-pharma",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        },
+        {
+            "symbol": "ADANIENSOL",
+            "description": "ADANI ENERGY SOLUTION LTD",
+            "type": "stock",
+            "exchange": "NSE",
+            "currency_code": "INR",
+            "logoid": "adani-transmiss-in",
+            "provider_id": "ice",
+            "source2": {
+                "id": "NSE",
+                "name": "NSE",
+                "description": "NSE"
+            },
+            "source_id": "NSE",
+            "country": "IN",
+            "is_primary_listing": true,
+            "typespecs": [
+                "common"
+            ]
+        }
+    ]
+}
